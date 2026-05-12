@@ -1,4 +1,3 @@
----
 
 # ANN_Project_2_GroupB_AI_6A1
 
@@ -8,8 +7,6 @@
 
 **Project 2 — CNN Image Classification**
 **Comparative Study: VGG-16, ResNet-50, EfficientNet-B0**
-
----
 
 ## Authors
 
